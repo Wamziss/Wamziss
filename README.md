@@ -2,15 +2,15 @@
 
 
 <h1 align="center">Hello 👋, I'm Hannah Mwangi</h1>
-<h3 align="center">Software Engineer | UI/UX Designer</h3>
+<h3 align="center">Software Engineer & UI/UX Designer</h3>
 
 - 🌱 I’m currently learning **Node js**
 
-- 💬 Ask me about **Application ,full stack or Software development**
+- 💬 Ask me about : **Application development | Full stack development | Software development**
 
 - 📫 Reach me at **hannahmwangi551@gmail.com**
 
-- ⚡ Fun fact **I smile a lot😊**
+- ⚡ Fun fact : **I smile a lot😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
