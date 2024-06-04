@@ -11,7 +11,7 @@
 - 📫 Reach me at **hannahmwangi551@gmail.com**
   
 
-- ⚡ Fun fact : **I Love learning new languages (the spoken kind!)🌍**
+- ⚡ Fun fact : **I love learning new languages (the spoken kind!)🌍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
