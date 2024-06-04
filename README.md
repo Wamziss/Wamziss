@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Node js**
 
-- 💬 Ask me about : **Application development | Full stack development | Software development**
+- 💬 Ask me about : **Application development | Full stack development | UI/UX design**
 
 - 📫 Reach me at **hannahmwangi551@gmail.com**
   
